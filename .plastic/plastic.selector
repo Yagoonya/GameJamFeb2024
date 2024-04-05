@@ -1,0 +1,4 @@
+repository "SpaceGameJam@SoapDick_inc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
